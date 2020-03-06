@@ -1,0 +1,6 @@
+C:\Users\student\Documents\FFRemake\Game\Components\bin\Debug\Components.dll
+C:\Users\student\Documents\FFRemake\Game\Components\bin\Debug\Components.pdb
+C:\Users\student\Documents\FFRemake\Game\Components\obj\Debug\Components.csprojAssemblyReference.cache
+C:\Users\student\Documents\FFRemake\Game\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\FFRemake\Game\Components\obj\Debug\Components.dll
+C:\Users\student\Documents\FFRemake\Game\Components\obj\Debug\Components.pdb
